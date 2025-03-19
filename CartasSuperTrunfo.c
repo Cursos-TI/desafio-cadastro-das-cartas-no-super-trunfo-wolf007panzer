@@ -112,5 +112,6 @@ printf("Digite o número de pontos turisticos: ");
 scanf ("%d", &numerodepontosturisticos2);
 printf ( "o número de pontos turisticos e,%d\n", numerodepontosturisticos2);
 
-    return 0;
+return 0;
+
 }
